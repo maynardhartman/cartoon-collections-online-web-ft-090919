@@ -24,8 +24,6 @@ def long_planeteer_calls(calls) # code an argument here
       result = FALSE
     end
   }
-  puts result
-  return result
 end
 
 def find_the_cheese# code an argument here
